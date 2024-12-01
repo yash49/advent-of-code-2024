@@ -1,0 +1,14 @@
+{
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "description": "https://adventofcode.com/2024",
+  "scripts": {
+    "solve": "bash ./solve.sh"
+  },
+  "keywords": [],
+  "author": "Yash Shah",
+  "devDependencies": {
+    "@types/node": "20",
+    "tsx": "^4.19.2"
+  }
+}
