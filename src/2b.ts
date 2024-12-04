@@ -1,4 +1,3 @@
-import console from 'console';
 import { readInput } from './util/readInput';
 
 function isSafe(arr: number[]) {
